@@ -4,9 +4,9 @@ This repository is about intercepting non http / binary traffic send over tcp.
 Often I was confronted during my pentests with a custom protocol, a closed-source device or network service
 with a proprietary protocol.
 
-This little workshop should provide you with the knowledge and skills to intercept [(1)](binary-network-protocol/challenges/01/01-How-to-intercept-traffic.md) and modify [(2)](binary-network-protocol/challenges/02/02-How-to-modify-traffic.md) the mentioned traffic.
+This little workshop should provide you with the knowledge and skills to intercept [(1)](/binary-network-protocol/challenges/01), modify [(2)](/binary-network-protocol/challenges/02) the mentioned traffic and bypass security mechanisms [(3)](/binary-network-protocol/challenges/03).
 
-In the last chapter [(3)](binary-network-protocol/challenges/03/03-How-to-create-a-little-wireshark-plugin.md) we will also learn how to create a little `wireshark` dissector.
+In the last chapter [(4)](/binary-network-protocol/challenges/04) we will also learn how to create a little `wireshark` dissector.
 
 ## Requirements
 
